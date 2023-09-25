@@ -52,11 +52,11 @@ header > h1 {
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.329);
 }
 
-header > p {
+header > div > p {
     font-size: 1.2em;
     color: rgb(255, 255, 255);
     font-family: var(--fonte-padrão);
-    min-width: 375px;
+    min-width: 380px;
     max-width: 500px;
     margin: auto;
     margin-bottom: 20px;
